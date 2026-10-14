@@ -1,1 +1,2 @@
 Git és un sistema de control de versions ideat per Linus Torvalds.
+Git es va crear l'any 2005

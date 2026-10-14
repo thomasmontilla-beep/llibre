@@ -1,0 +1,1 @@
+Les branques permeten treballar en paral·lel sense afectar la línia principal.
